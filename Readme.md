@@ -7,5 +7,5 @@ npm install
 
 ### Ejemplo
 ```
-node install bostrap
+node install bootstrap
 ```
